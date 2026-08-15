@@ -1,5 +1,9 @@
 # Predicting Students’ E-Learning Continuance Intention Using Machine Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21944837.svg)](https://doi.org/10.5281/zenodo.21944837)
+
+**Archived release DOI:** `10.5281/zenodo.21944837`
+
 ## Cross-Dataset Validation and a Data-Driven Educational Intervention Framework
 
 This repository contains the complete analytical workflow for the study:
@@ -329,11 +333,12 @@ The analytical code, trained model, derived non-restricted outputs, figures, and
 
 Repository URL:
 
-To be added after GitHub publication.
+https://github.com/ParisaGhahreman/E-Learning-Continuance-ML
 
 Archived release DOI:
 
-To be added after Zenodo release.
+https://doi.org/10.5281/zenodo.21944837
+
 ## Citation
 Citation information will be provided through:
 
