@@ -1,0 +1,14 @@
+{
+    "model_name": "Linear Regression",
+    "development_dataset": "Dataset B",
+    "development_sample_size": 368,
+    "predictors": [
+        "CON_score",
+        "SAT_score"
+    ],
+    "target": "CI_score",
+    "model_selection_metric": "5-Fold CV RMSE",
+    "selected_cv_rmse": 0.4721,
+    "external_validation_dataset": "EFL",
+    "model_file": "Final_Linear_Regression_Model.joblib"
+}

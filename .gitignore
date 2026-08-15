@@ -1,0 +1,71 @@
+# --------------------------------------------------
+# Jupyter temporary files
+# --------------------------------------------------
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+
+
+# --------------------------------------------------
+# Python cache and temporary files
+# --------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# --------------------------------------------------
+# Virtual environments
+# --------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+
+# --------------------------------------------------
+# IDE / editor files
+# --------------------------------------------------
+.vscode/
+.idea/
+
+
+# --------------------------------------------------
+# Operating-system temporary files
+# --------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# --------------------------------------------------
+# Microsoft Office temporary files
+# --------------------------------------------------
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+
+# --------------------------------------------------
+# EFL raw participant-level data
+# Not redistributed in the public repository
+# --------------------------------------------------
+data/datasets_EFL/*.sav
+
+
+# --------------------------------------------------
+# EFL participant-level processed datasets
+# Not redistributed in the public repository
+# --------------------------------------------------
+data/processed/dataset_EFL_clean.csv
+data/processed/dataset_EFL_model_ready.csv
+data/processed/dataset_EFL_quality_flagged.csv
+data/processed/dataset_EFL_sensitivity_filtered.csv
+
+
+# --------------------------------------------------
+# Local/private article files
+# --------------------------------------------------
+*.tmp
+*.bak
