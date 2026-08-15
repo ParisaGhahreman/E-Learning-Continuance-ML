@@ -1,2 +1,30 @@
 cff-version: 1.2.0
-message: "If you use this software or repository in your research, please cite it using the metadata provided in this file." title: "Predicting Students' E-Learning Continuance Intention Using Machine Learning: Cross-Dataset Validation and a Data-Driven Educational Intervention Framework" type: software authors: - family-names: "GhahremanShahraki" given-names: "Parisa" version: "1.0.0" date-released: "2026-08-15" license: MIT keywords: - machine learning - e-learning - continuance intention - educational data mining - learning analytics - external validation - cross-dataset validation - educational intervention - decision support repository-code: "https://github.com/ParisaGhahreman/E-Learning-Continuance-ML"
+
+message: "If you use this software or repository in your research, please cite it using the metadata provided in this file."
+
+title: "Predicting Students' E-Learning Continuance Intention Using Machine Learning: Cross-Dataset Validation and a Data-Driven Educational Intervention Framework"
+
+type: software
+
+authors:
+  - family-names: "GhahremanShahraki"
+    given-names: "Parisa"
+
+version: "1.0.0"
+
+date-released: "2026-08-15"
+
+license: MIT
+
+keywords:
+  - machine learning
+  - e-learning
+  - continuance intention
+  - educational data mining
+  - learning analytics
+  - external validation
+  - cross-dataset validation
+  - educational intervention
+  - decision support
+
+repository-code: "https://github.com/ParisaGhahreman/E-Learning-Continuance-ML"
