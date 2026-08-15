@@ -1,6 +1,6 @@
 # Predicting Students’ E-Learning Continuance Intention Using Machine Learning
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21944837.svg)](https://doi.org/10.5281/zenodo.21944837)
+[![DOI](https://zenodo.org/badge/1334846418.svg)](https://doi.org/10.5281/zenodo.21944836)
 
 **Archived release DOI:** `10.5281/zenodo.21944837`
 
